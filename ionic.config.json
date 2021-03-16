@@ -1,0 +1,7 @@
+{
+  "name": "fw-ionitem-icon-a11y-issue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
